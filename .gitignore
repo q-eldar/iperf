@@ -31,3 +31,5 @@ examples/Makefile
 examples/mic
 examples/mis
 .vscode/
+compile_commands.json
+.cache
